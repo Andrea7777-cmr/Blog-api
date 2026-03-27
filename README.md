@@ -32,6 +32,16 @@ Réalisation de l’API Backend Technologies utilisées
 - MySQL
 - Swagger
 - Postman
+
+  Dépendances utilisées :
+- npm install
+- nano server js
+- node server js
+- nano route/articlesjs
+- nano config/dbjs
+- node config/db1s
+- node appjs
+  
 Base de données
 Une base de données nommée article a été créée avec une table principale "articles".
 
